@@ -2,7 +2,9 @@
 
 # Thaiza Ludmila
 <sub>*Analista de Dados* </sub>
+
 [Descrever um pouco da sua trajetória profissional e estudos]
+
 **Conhecimento em:** Python | Data Mining | Análise Exploratória | Solução de Problemas | Power BI | SQL
 
 **Links:**
