@@ -4,9 +4,9 @@
 
 <sub>*Analista de Dados* </sub>
 
-[Descrever um pouco da sua trajetória profissional e estudos]
+Em processo de transição de carreira para análise de dados, atualmente estou Bacharelado da Tecnologia da Informação, pela Universidade Virtual do Estado de São Paulo (UNIVESP), e estagiária em Análise de Dados.
 
-**Conhecimento em:** Python | Data Mining | Análise Exploratória | Solução de Problemas | Power BI | SQL
+**Conhecimento em:** Python | Data Mining | Análise Exploratória | Solução de Problemas | Power BI | SQL | Looker Studio
 
 **Links:**
 * [LinkedIn]( https://www.linkedin.com/in/thaizalu)
